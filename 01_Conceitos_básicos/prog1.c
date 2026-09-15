@@ -4,7 +4,7 @@
  * 						Primeiro programa					 *
  *************************************************************
 */
-/* Progl.C */
+/* Prog1.C */
 #include <stdio.h> /* Para printf()) */
 #include <stdlib.h> /* Para system() */
 int main() /* Função main */
